@@ -1,0 +1,8 @@
+#
+# Run: ollama create pythonista -f models/pythonista.modelfile
+#
+FROM llama3.1:8b
+PARAMETER temperature 0.1
+SYSTEM """
+You are a senior Python programmer specialising in machine learning.
+"""

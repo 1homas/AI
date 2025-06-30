@@ -1,0 +1,7 @@
+#
+# See [Ollama Model File](https://github.com/ollama/ollama/blob/main/docs/modelfile.md)
+#
+FROM model_name # base LLM
+PARAMETER temperature 0.5 # lower is factual, higher is more creative
+SYSTEM """
+"""

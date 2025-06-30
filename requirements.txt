@@ -1,0 +1,20 @@
+
+bs4                  # HTML parsing
+chromadb             # vector database
+httpie               # HTTP
+httpx                # HTTP
+ipykernel            # required for Jupyter
+ipython
+jupyter              # interactive notebook
+langchain
+langchain_community
+langchain_experimental
+markitdown           # convert PDF to Markdown
+ollama               # LLM client
+pip pipenv           # package management
+requests             # HTTP
+streamlit            # simple GUI
+torch
+torchvision
+transformers
+urllib3              # URLs
