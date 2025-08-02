@@ -1,6 +1,8 @@
 
 bs4                  # HTML parsing
 chromadb             # vector database
+fastmcp              # make MCP Servers
+docling              # document conversion (PDF to Markdown)
 httpie               # HTTP
 httpx                # HTTP
 ipykernel            # required for Jupyter
