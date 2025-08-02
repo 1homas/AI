@@ -7,7 +7,7 @@ podman-compose -f ai_compose.yaml stop
 
 # Pull the latest of each image for use
 echo "Updating n8n..."
-podman pull docker.io/n8nio/n8n
+podman pull docker.n8n.io/n8nio/n8n
 podman container rm n8n
 
 echo "Updating ollama..."
